@@ -1,0 +1,13 @@
+git init
+
+git add
+
+git comit===initial comit
+
+git branch
+
+git log
+
+git diff
+
+git merge
